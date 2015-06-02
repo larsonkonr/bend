@@ -2880,7 +2880,6 @@ a:hover, .commentlist cite a:hover, .headline h1 a:hover { color:rgba(34,94,155,
   .masthead .masthead-title { font-size:72px; }
 }
 @media screen and (max-width: 768px) {
-  .masthead .inner { padding-top:; }
   .masthead .masthead-title { font-size:54px; }
   .masthead .masthead-tag {
     margin-right:0;
