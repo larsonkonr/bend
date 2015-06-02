@@ -1008,7 +1008,7 @@ body{
 		background:-o-linear-gradient(top,#1A3764 0%,#517EBD 100%);
 		background:-ms-linear-gradient(top,#1A3764 0%,#517EBD 100%);
 		background:linear-gradient(top,#1A3764 0%,#517EBD 100%);
-		filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#1A3764',endColorstr='#517EBD');
+		filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#1A3764',endColorstr='#517EBD',GradientType=0);
 	}
 
 
@@ -1142,7 +1142,7 @@ input[type="submit"], .submit, input[type="button"], .button, input[type="reset"
 			background:-o-linear-gradient(top,#1A3764 0%,#517EBD 100%);
 			background:-ms-linear-gradient(top,#1A3764 0%,#517EBD 100%);
 			background:linear-gradient(top,#1A3764 0%,#517EBD 100%);
-			filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#1A3764',endColorstr='#517EBD');
+			filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#1A3764',endColorstr='#517EBD',GradientType=0);
 		}
 
 		.button.bblue, .button.bblue:hover, .button.bblue:active{
