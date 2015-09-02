@@ -15,6 +15,7 @@ Rails.application.routes.draw do
   get '/latest-projects', to: 'sites#latest-projects'
   get '/location', to: 'sites#location'
   get '/contact', to: 'contacts#new'
+  get '/sitemap.xml', :to => redirect('/sitemap.xml')
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
